@@ -1,0 +1,20 @@
+.hero{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)), url('../img/jumpstory-download20230706-204526.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 20px;
+    
+    
+}
+.main-call{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.83)), url('../img/jumpstory-download20230706-204539.jpg');
+    height: 60vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 20px;
+}
